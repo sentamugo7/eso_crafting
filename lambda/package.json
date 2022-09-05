@@ -1,0 +1,20 @@
+{
+    "name": "e-s-o-crafting",
+    "version": "blackwood",
+    "description": "alexa utility for Elder Scrolls Online crafting",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Sentamugo7",
+    "license": "ISC",
+    "dependencies": {
+        "ask-sdk-core": "^2.7.0",
+        "ask-sdk-model": "^1.19.0",
+        "aws-sdk": "^2.326.0",
+        "i18next": "^15.0.5",
+        "ask-sdk-s3-persistence-adapter": "^2.7.0",
+        "axios": "^0.18.0",
+        "adm-zip": "0.4.14"
+    }
+}
