@@ -1,0 +1,210 @@
+{
+  "manifest": {
+    "publishingInformation": {
+      "locales": {
+        "de-DE": {
+          "summary": "Hilfe beim Basteln im Elder Scrolls Online",
+          "examplePhrases": [
+            "Alexa, frag e s o basteln für info über eigenschaft geladen",
+            "Alexa, frag e. s. o. basteln dazu finde rezept für entensuppe",
+            "Alexa, frag e. s. o. basteln ein lösungsmittel fett"
+          ],
+          "keywords": [
+            "e.s.o",
+            "elder",
+            "scrolls",
+            "mmorpg"
+          ],
+          "name": "E.S.O. basteln",
+          "description": "Diese Alexa Skill ist nützlich für Elder Skills Online Spieler, um Hilfe beim Basteln zu erhalten. Sie können einige Handwerkshilfen zu den verschiedenen Handwerksfertigkeiten erhalten, die ursprünglich von den Unofficial Elder Scrolls Pages, sowie Informationen, die ursprünglich von ESO Sets kamen.\n\neinige beispiele\n------------------\nAlexa, frag e. s. o. basteln dazu finde rezept für entensuppe\nAlexa, frag e. s. o. basteln für das volle rezept für kaiserliches starkbier\nAlexa, frag e. s. o. basteln ein rezept mit äpfel und knoblauch und blattgemüse\nAlexa, frag e. s. o. basteln ein rezept mit tomate und geflügelfleisch\nAlexa, frag e. s. o. basteln für effekte von wolfsauge\nAlexa, frag e. s. o. basteln für info über eigenschaft geladen\nAlexa, frag e. s. o. basteln und finde stil orks\nAlexa, frag e. s. o. basteln dazu stil polster des skaalentdeckers\nAlexa, frag e. s. o. basteln ein lösungsmittel fett\nAlexa, frag e. s. o. basteln dazu finde trank vitalität\nAlexa, frag e. s. o. basteln um gift verstümmelung\nAlexa, frag e. s. o. basteln welche reagenzen werden im trank schändung genutzt\nAlexa, frag e. s. o. basteln mit reagenzen für gift brutalitätsentzugs\nAlexa, frag e. s. o. basteln zu für das set lied der lamie\nAlexa, frag e. s. o. basteln und hole das ganze set rüstungsmeister\nAlexa, frag e. s. o. basteln und finde sets mit bonus gewährt maximale magicka und gewährt kritische waffentreffer\n\nEine vollständige Liste aller verfügbaren Fragen finden Sie unter:\nhttps://docs.google.com/document/d/1wW3xb63bcoErlD3O3QY6m2P2KVGRpLRN15obgVmTmTs/edit\n\nhinweis -\n     - Die Skill kann im direkten Modus verwendet werden, um nur eine sofortige Antwort zu geben:\n       \"Alexa, frag e. s. o. basteln für info über eigenschaft robust\"\n     - Die Skill kann interaktiv eingesetzt werden:\n       \"Alexa, öffne e. s. o. basteln\"\n       \"lösungsmittel alkahest\"\n       \"zu für das set lied der lamie\"\n       \"dazu finde rezept für melonengelee\"\n       \"hilfe\"\n       \"halt\"\n\n     - Manchmal ist Alexa ... verwirrt, sagen Sie einfach \"halt\"\n     - Alexa kann Probleme haben, die erfundenen Wörter in Elder Scrolls Online zu verstehen.\n       Wenn Sie klar sprechen, werden möglicherweise die Wörter angezeigt, aber häufig nicht.\n\nStrom mit Stonethorn Patch\n\n*symbol - www.kindpng.com, getdrawings.com",
+          "smallIconUri": "file://assets/images/de-DE_smallIconUri.png",
+          "largeIconUri": "file://assets/images/de-DE_largeIconUri.png"
+        },
+        "en-US": {
+          "summary": "Help with crafting in the Elder Scrolls Online",
+          "examplePhrases": [
+            "Alexa, ask e. s. o. crafting for info on trait charged",
+            "Alexa, ask e. s. o. crafting to lookup the recipe for duck soup",
+            "Alexa, ask e. s. o. crafting for solvent grease"
+          ],
+          "keywords": [
+            "e.s.o",
+            "elder",
+            "scrolls",
+            "mmorpg"
+          ],
+          "name": "E.S.O. crafting",
+          "description": "This Alexa skill is useful for Elder Skills Online players for help with crafting. You can get some crafting help on the different crafting skills, originally from the Unofficial Elder Scrolls Pages, and set information originally from ESO Sets.\n\nsome examples\n------------------\nAlexa, ask e. s. o. crafting to lookup the recipe for duck soup\nAlexa, ask e. s. o. crafting to get the full recipe for imperial stout\nAlexa, ask e. s. o. crafting for recipes with apples and garlic and greens\nAlexa, ask e. s. o. crafting for recipes with tomato and poultry\nAlexa, ask e. s. o. crafting for effects from bugloss\nAlexa, ask e. s. o. crafting for info on trait charged\nAlexa, ask e. s. o. crafting to find style orc\nAlexa, ask e. s. o. crafting for style skaal explorer\nAlexa, ask e. s. o. crafting for solvent grease\nAlexa, ask e. s. o. crafting to lookup potion vitality\nAlexa, ask e. s. o. crafting for information for poison maiming\nAlexa, ask e. s. o. crafting which reagents are in potion defile\nAlexa, ask e. s. o. crafting for regeants for poison brutality draining\nAlexa, ask e. s. o. crafting to find set lamias song\nAlexa, ask e. s. o. crafting to lookup full set armor master\nAlexa, ask e. s. o. crafting to find sets with bonus adds maximum magicka and adds weapon critical\n\nfor a complete list of all available questions, see:\nhttps://docs.google.com/document/d/1UkUOFt59-gD43r-ADdPQDmljW7Mvsc3e7sRJcfZmhzw/edit\n\nnote -\n     - the skill can be used in direct mode to just give an immediate response:\n       \"Alexa, ask e. s. o. crafting for info on trait sturdy\"\n     - the skill can be used interactively:\n       \"Alexa, open e. s. o. crafting\"\n       \"find solvent clear water\"\n       \"lookup full set lamias song\"\n       \"get the recipe for melon jelly\"\n       \"help\"\n       \"stop\"\n\n     - sometimes Alexa gets ... confused, just say \"stop\"\n     - Alexa can have trouble understanding the made up words in Elder Scrolls Online,\n       If you speak clearly, it may get the words, but often it will not.\n\ncurrent with Blackwood patch\n\n*icon - www.kindpng.com,getdrawings.com",
+          "smallIconUri": "file://assets/images/en-US_smallIconUri.png",
+          "largeIconUri": "file://assets/images/en-US_largeIconUri.png"
+        },
+        "en-CA": {
+          "summary": "Help with crafting in the Elder Scrolls Online",
+          "examplePhrases": [
+            "Alexa, ask e. s. o. crafting for info on trait charged",
+            "Alexa, ask e. s. o. crafting to lookup the recipe for duck soup",
+            "Alexa, ask e. s. o. crafting for solvent grease"
+          ],
+          "keywords": [
+            "e.s.o",
+            "elder",
+            "scrolls",
+            "mmorpg"
+          ],
+          "name": "E.S.O. crafting",
+          "description": "This Alexa skill is useful for Elder Skills Online players for help with crafting. You can get some crafting help on the different crafting skills, originally from the Unofficial Elder Scrolls Pages, and set information originally from ESO Sets.\n\nsome examples\n------------------\nAlexa, ask e. s. o. crafting to lookup the recipe for duck soup\nAlexa, ask e. s. o. crafting to get the full recipe for imperial stout\nAlexa, ask e. s. o. crafting for recipes with apples and garlic and greens\nAlexa, ask e. s. o. crafting for recipes with tomato and poultry\nAlexa, ask e. s. o. crafting for effects from bugloss\nAlexa, ask e. s. o. crafting for info on trait charged\nAlexa, ask e. s. o. crafting to find style orc\nAlexa, ask e. s. o. crafting for style skaal explorer\nAlexa, ask e. s. o. crafting for solvent grease\nAlexa, ask e. s. o. crafting to lookup potion vitality\nAlexa, ask e. s. o. crafting for information for poison maiming\nAlexa, ask e. s. o. crafting which reagents are in potion defile\nAlexa, ask e. s. o. crafting for regeants for poison brutality draining\nAlexa, ask e. s. o. crafting to find set lamias song\nAlexa, ask e. s. o. crafting to lookup full set armor master\nAlexa, ask e. s. o. crafting to find sets with bonus adds maximum magicka and adds weapon critical\n\nfor a complete list of all available questions, see:\nhttps://docs.google.com/document/d/1UkUOFt59-gD43r-ADdPQDmljW7Mvsc3e7sRJcfZmhzw/edit\n\nnote -\n     - the skill can be used in direct mode to just give an immediate response:\n       \"Alexa, ask e. s. o. crafting for info on trait sturdy\"\n     - the skill can be used interactively:\n       \"Alexa, open e. s. o. crafting\"\n       \"find solvent clear water\"\n       \"lookup full set lamias song\"\n       \"get the recipe for melon jelly\"\n       \"help\"\n       \"stop\"\n\n     - sometimes Alexa gets ... confused, just say \"stop\"\n     - Alexa can have trouble understanding the made up words in Elder Scrolls Online,\n       If you speak clearly, it may get the words, but often it will not.\n\ncurrent with Blackwood patch\n\n*icon - www.kindpng.com,getdrawings.com",
+          "smallIconUri": "file://assets/images/en-CA_smallIconUri.png",
+          "largeIconUri": "file://assets/images/en-CA_largeIconUri.png"
+        },
+        "en-IN": {
+          "summary": "Help with crafting in the Elder Scrolls Online",
+          "examplePhrases": [
+            "Alexa, ask e. s. o. crafting for info on trait charged",
+            "Alexa, ask e. s. o. crafting to lookup the recipe for duck soup",
+            "Alexa, ask e. s. o. crafting for solvent grease"
+          ],
+          "keywords": [
+            "e.s.o",
+            "elder",
+            "scrolls",
+            "mmorpg"
+          ],
+          "name": "E.S.O. crafting",
+          "description": "This Alexa skill is useful for Elder Skills Online players for help with crafting. You can get some crafting help on the different crafting skills, originally from the Unofficial Elder Scrolls Pages, and set information originally from ESO Sets.\n\nsome examples\n------------------\nAlexa, ask e. s. o. crafting to lookup the recipe for duck soup\nAlexa, ask e. s. o. crafting to get the full recipe for imperial stout\nAlexa, ask e. s. o. crafting for recipes with apples and garlic and greens\nAlexa, ask e. s. o. crafting for recipes with tomato and poultry\nAlexa, ask e. s. o. crafting for effects from bugloss\nAlexa, ask e. s. o. crafting for info on trait charged\nAlexa, ask e. s. o. crafting to find style orc\nAlexa, ask e. s. o. crafting for style skaal explorer\nAlexa, ask e. s. o. crafting for solvent grease\nAlexa, ask e. s. o. crafting to lookup potion vitality\nAlexa, ask e. s. o. crafting for information for poison maiming\nAlexa, ask e. s. o. crafting which reagents are in potion defile\nAlexa, ask e. s. o. crafting for regeants for poison brutality draining\nAlexa, ask e. s. o. crafting to find set lamias song\nAlexa, ask e. s. o. crafting to lookup full set armor master\nAlexa, ask e. s. o. crafting to find sets with bonus adds maximum magicka and adds weapon critical\n\nfor a complete list of all available questions, see:\nhttps://docs.google.com/document/d/1UkUOFt59-gD43r-ADdPQDmljW7Mvsc3e7sRJcfZmhzw/edit\n\nnote -\n     - the skill can be used in direct mode to just give an immediate response:\n       \"Alexa, ask e. s. o. crafting for info on trait sturdy\"\n     - the skill can be used interactively:\n       \"Alexa, open e. s. o. crafting\"\n       \"find solvent clear water\"\n       \"lookup full set lamias song\"\n       \"get the recipe for melon jelly\"\n       \"help\"\n       \"stop\"\n\n     - sometimes Alexa gets ... confused, just say \"stop\"\n     - Alexa can have trouble understanding the made up words in Elder Scrolls Online,\n       If you speak clearly, it may get the words, but often it will not.\n\ncurrent with Blackwood patch\n\n*icon - www.kindpng.com,getdrawings.com",
+          "smallIconUri": "file://assets/images/en-IN_smallIconUri.png",
+          "largeIconUri": "file://assets/images/en-IN_largeIconUri.png"
+        },
+        "en-AU": {
+          "summary": "Help with crafting in the Elder Scrolls Online",
+          "examplePhrases": [
+            "Alexa, ask e. s. o. crafting for info on trait charged",
+            "Alexa, ask e. s. o. crafting to lookup the recipe for duck soup",
+            "Alexa, ask e. s. o. crafting for solvent grease"
+          ],
+          "keywords": [
+            "e.s.o",
+            "elder",
+            "scrolls",
+            "mmorpg"
+          ],
+          "name": "E.S.O. crafting",
+          "description": "This Alexa skill is useful for Elder Skills Online players for help with crafting. You can get some crafting help on the different crafting skills, originally from the Unofficial Elder Scrolls Pages, and set information originally from ESO Sets.\n\nsome examples\n------------------\nAlexa, ask e. s. o. crafting to lookup the recipe for duck soup\nAlexa, ask e. s. o. crafting to get the full recipe for imperial stout\nAlexa, ask e. s. o. crafting for recipes with apples and garlic and greens\nAlexa, ask e. s. o. crafting for recipes with tomato and poultry\nAlexa, ask e. s. o. crafting for effects from bugloss\nAlexa, ask e. s. o. crafting for info on trait charged\nAlexa, ask e. s. o. crafting to find style orc\nAlexa, ask e. s. o. crafting for style skaal explorer\nAlexa, ask e. s. o. crafting for solvent grease\nAlexa, ask e. s. o. crafting to lookup potion vitality\nAlexa, ask e. s. o. crafting for information for poison maiming\nAlexa, ask e. s. o. crafting which reagents are in potion defile\nAlexa, ask e. s. o. crafting for regeants for poison brutality draining\nAlexa, ask e. s. o. crafting to find set lamias song\nAlexa, ask e. s. o. crafting to lookup full set armor master\nAlexa, ask e. s. o. crafting to find sets with bonus adds maximum magicka and adds weapon critical\n\nfor a complete list of all available questions, see:\nhttps://docs.google.com/document/d/1UkUOFt59-gD43r-ADdPQDmljW7Mvsc3e7sRJcfZmhzw/edit\n\nnote -\n     - the skill can be used in direct mode to just give an immediate response:\n       \"Alexa, ask e. s. o. crafting for info on trait sturdy\"\n     - the skill can be used interactively:\n       \"Alexa, open e. s. o. crafting\"\n       \"find solvent clear water\"\n       \"lookup full set lamias song\"\n       \"get the recipe for melon jelly\"\n       \"help\"\n       \"stop\"\n\n     - sometimes Alexa gets ... confused, just say \"stop\"\n     - Alexa can have trouble understanding the made up words in Elder Scrolls Online,\n       If you speak clearly, it may get the words, but often it will not.\n\ncurrent with Blackwood patch\n\n*icon - www.kindpng.com,getdrawings.com",
+          "smallIconUri": "file://assets/images/en-AU_smallIconUri.png",
+          "largeIconUri": "file://assets/images/en-AU_largeIconUri.png"
+        },
+        "fr-FR": {
+          "summary": "aide pour l\u0027artisant de l\u0027Elder Scrolls Online",
+          "examplePhrases": [
+            "Alexa, demande à e. s. o. artisanat de rechercher le trait chargé",
+            "Alexa, demande à e. s. o. artisanat de trouver la recette de soupe au canard",
+            "Alexa, demande à e. s. o. artisanat au solvant graisse"
+          ],
+          "keywords": [
+            "e.s.o",
+            "elder",
+            "scrolls",
+            "mmorpg"
+          ],
+          "name": "E.S.O. artisanat",
+          "description": "Cette skill Alexa est utile pour les joueurs de Elder Skills Online pour obtenir de l\u0027aide dans l\u0027artisanat. Vous pouvez obtenir aide à l\u0027artisanat sur les différentes compétences de l\u0027artisanat, originaires des pages de Unofficial Elder Scrolls Pages, et informations des ensembles de ESO Sets.\n\nquelques exemples\n------------------\nAlexa, demande à e. s. o. artisanat de trouver la recette de soupe au canard\nAlexa, demande à e. s. o. artisanat de trouver la recette totale de bière brune impériale\nAlexa, demande à e. s. o. artisanat les recettes avec pommes et ail et légumes verts\nAlexa, demande à e. s. o. artisanat les recettes avec tomate et volaille\nAlexa, demande à e. s. o. artisanat les effets de noctuelle\nAlexa, demande à e. s. o. artisanat de rechercher le trait chargé\nAlexa, demande à e. s. o. artisanat de trouver le style orques\nAlexa, demande à e. s. o. artisanat au style explorateur de skaal\nAlexa, demande à e. s. o. artisanat au solvant graisse\nAlexa, demande à e. s. o. artisanat de rechercher la potion vitalité\nAlexa, demande à e. s. o. artisanat pour information pour le poison mutilation\nAlexa, demande à e. s. o. artisanat les réactifs pour potion avilissement\nAlexa, demande à e. s. o. artisanat quels réactifs sont en poison drain de brutalité\nAlexa, demande à e. s. o. artisanat de trouver ensemble chant de la lamie\nAlexa, demande à e. s. o. artisanat de rechercher ensemble total maître armurier\nAlexa, demande à e. s. o. artisanat de trouver des ensembles avec des bonus ajoute magie maximale et ajoute critique physique\n\npour une liste complète de toutes les questions disponibles, voir:\nhttps://docs.google.com/document/d/1ARGa3u4tBg-tcR8n3Vzw2YCM-PgLhHYkkbwZMordQB8/edit\n\nremarque -\n     - la skill peut être utilisée en mode direct pour donner une réponse immédiate:\n       \"Alexa, demande à e. s. o. artisanat de rechercher le trait solide\"\n     - la skill peut être utilisée de manière interactive:\n       \"Alexa, ouvre e. s. o. artisanat\"\n       \"trouver solvant eau claire\"\n       \"recherche ensemble total chant de la lamie\"\n       \"trouver la recette totale de gelée de melon\"\n       \"aide\"\n       \"arrêtez\"\n\n     - parfois la skill est ... confuse, dites simplement \"arrêtez\"\n     - La skill peut avoir du mal à comprendre les mots inventés dans Elder Scrolls Online,\n       Si vous parlez clairement, il peut comprendre les mots, mais souvent ce n\u0027est pas le cas.\n\nactuel avec le patch Blackwood\n\n*icône - www.kindpng.com, getdrawings.com",
+          "smallIconUri": "file://assets/images/fr-FR_smallIconUri.png",
+          "largeIconUri": "file://assets/images/fr-FR_largeIconUri.png"
+        },
+        "en-GB": {
+          "summary": "Help with crafting in the Elder Scrolls Online",
+          "examplePhrases": [
+            "Alexa, ask e. s. o. crafting for info on trait charged",
+            "Alexa, ask e. s. o. crafting to lookup the recipe for duck soup",
+            "Alexa, ask e. s. o. crafting for solvent grease"
+          ],
+          "keywords": [
+            "e.s.o",
+            "elder",
+            "scrolls",
+            "mmorpg"
+          ],
+          "name": "E.S.O. crafting",
+          "description": "This Alexa skill is useful for Elder Skills Online players for help with crafting. You can get some crafting help on the different crafting skills, originally from the Unofficial Elder Scrolls Pages, and set information originally from ESO Sets.\n\nsome examples\n------------------\nAlexa, ask e. s. o. crafting to lookup the recipe for duck soup\nAlexa, ask e. s. o. crafting to get the full recipe for imperial stout\nAlexa, ask e. s. o. crafting for recipes with apples and garlic and greens\nAlexa, ask e. s. o. crafting for recipes with tomato and poultry\nAlexa, ask e. s. o. crafting for effects from bugloss\nAlexa, ask e. s. o. crafting for info on trait charged\nAlexa, ask e. s. o. crafting to find style orc\nAlexa, ask e. s. o. crafting for style skaal explorer\nAlexa, ask e. s. o. crafting for solvent grease\nAlexa, ask e. s. o. crafting to lookup potion vitality\nAlexa, ask e. s. o. crafting for information for poison maiming\nAlexa, ask e. s. o. crafting which reagents are in potion defile\nAlexa, ask e. s. o. crafting for regeants for poison brutality draining\nAlexa, ask e. s. o. crafting to find set lamias song\nAlexa, ask e. s. o. crafting to lookup full set armor master\nAlexa, ask e. s. o. crafting to find sets with bonus adds maximum magicka and adds weapon critical\n\nfor a complete list of all available questions, see:\nhttps://docs.google.com/document/d/1UkUOFt59-gD43r-ADdPQDmljW7Mvsc3e7sRJcfZmhzw/edit\n\nnote -\n     - the skill can be used in direct mode to just give an immediate response:\n       \"Alexa, ask e. s. o. crafting for info on trait sturdy\"\n     - the skill can be used interactively:\n       \"Alexa, open e. s. o. crafting\"\n       \"find solvent clear water\"\n       \"lookup full set lamias song\"\n       \"get the recipe for melon jelly\"\n       \"help\"\n       \"stop\"\n\n     - sometimes Alexa gets ... confused, just say \"stop\"\n     - Alexa can have trouble understanding the made up words in Elder Scrolls Online,\n       If you speak clearly, it may get the words, but often it will not.\n\ncurrent with Blackwood patch\n\n*icon - www.kindpng.com,getdrawings.com",
+          "smallIconUri": "file://assets/images/en-GB_smallIconUri.png",
+          "largeIconUri": "file://assets/images/en-GB_largeIconUri.png"
+        },
+        "fr-CA": {
+          "summary": "aide pour l\u0027artisant de l\u0027Elder Scrolls Online",
+          "examplePhrases": [
+            "Alexa, demande à e. s. o. artisanat de rechercher le trait chargé",
+            "Alexa, demande à e. s. o. artisanat de trouver la recette de soupe au canard",
+            "Alexa, demande à e. s. o. artisanat au solvant graisse"
+          ],
+          "keywords": [
+            "e.s.o",
+            "elder",
+            "scrolls",
+            "mmorpg"
+          ],
+          "name": "E.S.O. artisanat",
+          "description": "Cette skill Alexa est utile pour les joueurs de Elder Skills Online pour obtenir de l\u0027aide dans l\u0027artisanat. Vous pouvez obtenir aide à l\u0027artisanat sur les différentes compétences de l\u0027artisanat, originaires des pages de Unofficial Elder Scrolls Pages, et informations des ensembles de ESO Sets.\n\nquelques exemples\n------------------\nAlexa, demande à e. s. o. artisanat de trouver la recette de soupe au canard\nAlexa, demande à e. s. o. artisanat de trouver la recette totale de bière brune impériale\nAlexa, demande à e. s. o. artisanat les recettes avec pommes et ail et légumes verts\nAlexa, demande à e. s. o. artisanat les recettes avec tomate et volaille\nAlexa, demande à e. s. o. artisanat les effets de noctuelle\nAlexa, demande à e. s. o. artisanat de rechercher le trait chargé\nAlexa, demande à e. s. o. artisanat de trouver le style orques\nAlexa, demande à e. s. o. artisanat au style explorateur de skaal\nAlexa, demande à e. s. o. artisanat au solvant graisse\nAlexa, demande à e. s. o. artisanat de rechercher la potion vitalité\nAlexa, demande à e. s. o. artisanat pour information pour le poison mutilation\nAlexa, demande à e. s. o. artisanat les réactifs pour potion avilissement\nAlexa, demande à e. s. o. artisanat quels réactifs sont en poison drain de brutalité\nAlexa, demande à e. s. o. artisanat de trouver ensemble chant de la lamie\nAlexa, demande à e. s. o. artisanat de rechercher ensemble total maître armurier\nAlexa, demande à e. s. o. artisanat de trouver des ensembles avec des bonus ajoute magie maximale et ajoute critique physique\n\npour une liste complète de toutes les questions disponibles, voir:\nhttps://docs.google.com/document/d/1ARGa3u4tBg-tcR8n3Vzw2YCM-PgLhHYkkbwZMordQB8/edit\n\nremarque -\n     - la skill peut être utilisée en mode direct pour donner une réponse immédiate:\n       \"Alexa, demande à e. s. o. artisanat de rechercher le trait solide\"\n     - la skill peut être utilisée de manière interactive:\n       \"Alexa, ouvre e. s. o. artisanat\"\n       \"trouver solvant eau claire\"\n       \"recherche ensemble total chant de la lamie\"\n       \"trouver la recette totale de gelée de melon\"\n       \"aide\"\n       \"arrêtez\"\n\n     - parfois la skill est ... confuse, dites simplement \"arrêtez\"\n     - La skill peut avoir du mal à comprendre les mots inventés dans Elder Scrolls Online,\n       Si vous parlez clairement, il peut comprendre les mots, mais souvent ce n\u0027est pas le cas.\n\nactuel avec le patch Blackwood\n\n*icône - www.kindpng.com, getdrawings.com",
+          "smallIconUri": "file://assets/images/fr-CA_smallIconUri.png",
+          "largeIconUri": "file://assets/images/fr-CA_largeIconUri.png"
+        }
+      },
+      "isAvailableWorldwide": true,
+      "testingInstructions": "Alexa, ask e. s. o. crafting to get the full recipe for frosted brains\nAlexa, ask e. s. o. crafting to lookup the recipe for duck soup\nAlexa, ask e. s. o. crafting for the recipe for ratatouille\nAlexa, ask e. s. o. crafting to get the full recipe for imperial stout\nAlexa, ask e. s. o. crafting for recipes with apples and garlic and greens\nAlexa, ask e. s. o. crafting for recipes with bananas and truck\nAlexa, ask e. s. o. crafting for recipes with tomato and poultry\nAlexa, ask e. s. o. crafting for effects from bugloss\nAlexa, ask e. s. o. crafting for alchemy effects for cycle\nAlexa, ask e. s. o. crafting for info on trait precise\nAlexa, ask e. s. o. crafting to lookup trait weird\nAlexa, ask e. s. o. crafting to find style orc\nAlexa, ask e. s. o. crafting for style skaal explorer\nAlexa, ask e. s. o. crafting for info on style gothic\nAlexa, ask e. s. o. crafting for solvent alkahest\nAlexa, ask e. s. o. crafting for solvent bleach\nAlexa, ask e. s. o. crafting to lookup potion vitality\nAlexa, ask e. s. o. crafting for information for poison maiming\nAlexa, ask e. s. o. crafting which reagents are in potion defile\nAlexa, ask e. s. o. crafting for reagents for potion magicka\nAlexa, ask e. s. o. crafting which reagents are in poison tragedy\nAlexa, ask e. s. o. crafting for regeants for poison brutality draining\nAlexa, ask e. s. o. crafting to find set lamias song\nAlexa, ask e. s. o. crafting to get set universal\nAlexa, ask e. s. o. crafting to lookup full set armor master\nAlexa, ask e. s. o. crafting to find sets with bonus adds maximum magicka and adds weapon critical\nAlexa, ask e. s. o. crafting to get sets with bonus adds maximum mojo and adds maximum stamina",
+      "category": "KNOWLEDGE_AND_TRIVIA",
+      "distributionMode": "PUBLIC",
+      "automaticClonedLocale": {
+        "locales": [
+          {
+            "source": "en-US"
+          },
+          {
+            "source": "fr-FR"
+          }
+        ]
+      },
+      "distributionCountries": []
+    },
+    "apis": {
+      "custom": {
+        "endpoint": {
+          "uri": "arn:aws:lambda:us-east-1:936844047172:function:3e0b0891-b225-467b-a8a5-a090eb6a3ce5:Release_6"
+        },
+        "interfaces": []
+      }
+    },
+    "manifestVersion": "1.0",
+    "permissions": [],
+    "privacyAndCompliance": {
+      "allowsPurchases": false,
+      "locales": {
+        "de-DE": {
+          "privacyPolicyUrl": ""
+        },
+        "en-US": {
+          "privacyPolicyUrl": ""
+        },
+        "en-CA": {
+          "privacyPolicyUrl": ""
+        },
+        "en-IN": {
+          "privacyPolicyUrl": ""
+        },
+        "en-AU": {
+          "privacyPolicyUrl": ""
+        },
+        "fr-FR": {
+          "privacyPolicyUrl": ""
+        },
+        "en-GB": {
+          "privacyPolicyUrl": ""
+        },
+        "fr-CA": {
+          "privacyPolicyUrl": ""
+        }
+      },
+      "containsAds": false,
+      "isExportCompliant": true,
+      "isChildDirected": false,
+      "usesPersonalInfo": false
+    }
+  }
+}
